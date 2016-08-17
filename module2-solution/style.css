@@ -96,22 +96,22 @@ div {
 /********** Desktop only **********/
 @media (min-width: 992px) {
   #body1 {
-    width:33.33%;
+    width:31%;
   }
   #body2 {
-    width:33.33%;
+    width:31%;
   }
   #body3 {
-    width:33.33%;
+    width:31%;
   }
 }
 /********** Tablet only **********/
 @media (min-width: 768px) and (max-width: 991px) {
     #body1 {
-    width:45%;
+    width:44%;
   }
   #body2 {
-    width:45%;
+    width:44%;
   }
   #body3 {
     width:90%;
@@ -120,12 +120,12 @@ div {
 /********** Mobile only **********/
 @media (max-width: 767px) {
     #body1 {
-    width:100%;
+    width:90%;
   }
   #body2 {
-    width:100%;
+    width:90%;
   }
   #body3 {
-    width:100%;
+    width:90%;
   }
 }
