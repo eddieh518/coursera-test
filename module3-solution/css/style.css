@@ -5,12 +5,12 @@
 }
 
 h1 {
+  text-align: center;
   font-family: Brushstroke, fantasy;
-  color: grey;
+  color: #000000;
 }
 
 body {
-  background-image: url("background.jpg");
   background-color: white;
 
 }
@@ -65,7 +65,7 @@ section {
   margin-bottom: 0;
   margin-top: 0;
   padding: 5px;
-  background-color: maroon;
+  background-color: yellow;
 }
 
 #sushi {
@@ -78,7 +78,7 @@ section {
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
-  background-color: maroon;
+  background-color: #6495ED;
   color: white;
   padding: 5px;
 }
